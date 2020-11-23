@@ -90,6 +90,6 @@ public class Main
         // 4. create char named "letty" with 'y'
         // 5. create in one line short xs,ys,zs
         //      in this one line put in xs = 1 in ys = 2 in zs = 3
-        //    then in the next line put in xs the sum of ys and zs
+        //    *etgar: then in the next line put in xs the sum of ys and zs
     }
 }
